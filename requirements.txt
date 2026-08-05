@@ -1,0 +1,76 @@
+# ==========================
+# Core LangChain
+# ==========================
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-text-splitters
+
+# ==========================
+# LangGraph (Multi-Agent + ReAct)
+# ==========================
+langgraph
+
+# ==========================
+# groq
+# ==========================
+groq
+
+# ==========================
+# Tavily Search Tool
+# ==========================
+tavily-python
+
+# ==========================
+# Web Scraping
+# ==========================
+beautifulsoup4
+lxml
+requests
+httpx
+
+# ==========================
+# Environment Variables
+# ==========================
+python-dotenv
+
+# ==========================
+# Data Validation
+# ==========================
+pydantic
+
+# ==========================
+# Token Counting
+# ==========================
+tiktoken
+
+# ==========================
+# Async Support
+# ==========================
+aiohttp
+
+# ==========================
+# Retry Utilities
+# ==========================
+tenacity
+
+# ==========================
+# JSON Handling
+# ==========================
+orjson
+
+# ==========================
+# Logging & Rich Console
+# ==========================
+rich
+
+# ==========================
+# Optional Progress Bars
+# ==========================
+tqdm
+
+# ==========================
+# Typing Support
+# ==========================
+typing-extensions
