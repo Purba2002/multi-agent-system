@@ -6,6 +6,7 @@ langchain-core
 langchain-community
 langchain-groq
 langchain-text-splitters
+streamlit
 
 # ==========================
 # LangGraph (Multi-Agent + ReAct)
