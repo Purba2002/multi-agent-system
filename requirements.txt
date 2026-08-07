@@ -1,6 +1,7 @@
 streamlit
-langchain
 langchain-groq
 langchain-core
-langgraph
 python-dotenv
+requests
+beautifulsoup4
+tavily-python
