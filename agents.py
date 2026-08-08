@@ -7,7 +7,7 @@ import streamlit as st
 from dotenv import load_dotenv
 load_dotenv()
 
-llm=ChatGroq(model="llama-3.3-70b-versatile",temperature=0,timeout=120,max_retires=2,groq_api_key=st.secrets["GROQ_API_KEY"])
+llm=ChatGroq(model="llama-3.3-70b-versatile",temperature=0,groq_api_key=st.secrets["GROQ_API_KEY"])
 
 #1st agent
 def build_search_agent():
