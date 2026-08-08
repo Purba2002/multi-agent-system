@@ -8,6 +8,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 llm=ChatGroq(model="llama-3.3-70b-versatile",temperature=0,groq_api_key=st.secrets["GROQ_API_KEY"])
+search_tool=TavilySearchResults(tavily_api_key=st.secrets["TAVILY_API_KEY"]
 
 #1st agent
 def build_search_agent():
